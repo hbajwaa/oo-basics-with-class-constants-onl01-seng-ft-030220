@@ -12,6 +12,7 @@ class Shoe
   end
   
   BRANDS = []
+  def brand=()
   
  
 
